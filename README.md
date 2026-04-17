@@ -109,8 +109,7 @@ Handles all core gameplay logic:
 ## 👤 Author
 
 **Mehmet Anıl Ülkü**  
-Electrical-Electronics & Computer Engineering Student  
-Türk Hava Kurumu Üniversitesi  
+Electrical-Electronics & Computer Engineering Student   
 GitHub: [Adonis-Lee](https://github.com/Adonis-Lee)
 
 ---
