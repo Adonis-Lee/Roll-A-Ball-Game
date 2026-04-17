@@ -6,8 +6,7 @@
 
 ## 📸 Screenshot
 
-![Gameplay Screenshot](GamePlay_ScreenShots.png)
-
+![Gameplay Screenshot](https://raw.githubusercontent.com/Adonis-Lee/Roll-A-Ball-Game/main/GamePlay_ScreenShots)
 ---
 
 ## 🎮 Gameplay
