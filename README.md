@@ -6,7 +6,7 @@
 
 ## 📸 Screenshot
 
-![Gameplay Screenshot](screenshot.png)
+![Gameplay Screenshot](GamePlay_ScreenShots.png)
 
 ---
 
